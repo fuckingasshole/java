@@ -11,9 +11,9 @@ public class der01 {
 		float high = scn.nextFloat();
 		float weight = scn.nextFloat();
 		if(high>165 && weight<45){
-			System.out.println("可%%%");
+			System.out.println("可交往");
 		}else{
-			System.out.println("不可%%%");
+			System.out.println("不可交往");
 		}
 	
 	}

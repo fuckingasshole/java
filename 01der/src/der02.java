@@ -17,7 +17,7 @@ public class der02 {
 		if (a >= 43 && b > 130 && c == 12) {
 			System.out.println("可購入");
 		} else {
-			System.out.println("不考慮");
+			System.out.println("不列入考慮");
 		}
 
 	}

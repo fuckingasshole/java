@@ -39,7 +39,7 @@ public class der03 {
 		}else if((mon==2 && day>=20 && day<=29) || (mon==3 && day<=20)){
 			System.out.println("雙魚座");
 		}else{
-			System.out.println("TMD座");		}
+			System.out.println("你要不要進來座");		}
 		
 	}
 }
